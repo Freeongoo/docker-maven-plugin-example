@@ -1,6 +1,6 @@
-# docker-maven-plugin-example
+# database-postgresql
 
-Source code for 
+Database PostgreSQL usage example with Docker for integration tests
 
 ## Running
 
